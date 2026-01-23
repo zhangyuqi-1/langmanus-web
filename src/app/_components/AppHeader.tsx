@@ -3,10 +3,10 @@ export function AppHeader() {
     <div>
       <a
         className="font-serif text-lg font-extralight text-gray-500"
-        href="https://github.com/langmanus/langmanus"
+        href="http://47.107.86.88:3000/"
         target="_blank"
       >
-        LangManus
+        问小租
       </a>
     </div>
   );
